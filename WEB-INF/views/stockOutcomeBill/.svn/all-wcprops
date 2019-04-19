@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/WMS/!svn/ver/1/WEB-INF/views/stockOutcomeBill
+END
+list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/WMS/!svn/ver/1/WEB-INF/views/stockOutcomeBill/list.jsp
+END
+input.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/WMS/!svn/ver/1/WEB-INF/views/stockOutcomeBill/input.jsp
+END
+show.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/WMS/!svn/ver/1/WEB-INF/views/stockOutcomeBill/show.jsp
+END

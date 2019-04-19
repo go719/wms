@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/WMS/!svn/ver/1/js/system
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/WMS/!svn/ver/1/js/system/index.js
+END
+login.js
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/WMS/!svn/ver/1/js/system/login.js
+END
+permission.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/WMS/!svn/ver/1/js/system/permission.js
+END
+employee.js
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/WMS/!svn/ver/1/js/system/employee.js
+END
+role.js
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/WMS/!svn/ver/1/js/system/role.js
+END

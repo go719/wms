@@ -1,0 +1,110 @@
+10
+
+dir
+1
+https://127.0.0.1/svn/WMS/WEB-INF/views
+https://127.0.0.1/svn/WMS
+
+
+
+2019-04-19T02:21:56.809786Z
+1
+root
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+517bfeb7-df60-394b-99ab-257d4023fdbc
+
+employee
+dir
+
+main.jsp
+file
+
+
+
+
+2016-08-14T04:51:04.000000Z
+4d1f48572f03d369075fcdea2811d5a5
+2019-04-19T02:21:56.809786Z
+1
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3078
+
+product
+dir
+
+stockIncomeBill
+dir
+
+stockOutcomeBill
+dir
+
+productStock
+dir
+
+brand
+dir
+
+common
+dir
+
+permission
+dir
+
+chart
+dir
+
+role
+dir
+
+department
+dir
+
+supplier
+dir
+
+systemMenu
+dir
+
+depot
+dir
+
+client
+dir
+
+orderBill
+dir
+

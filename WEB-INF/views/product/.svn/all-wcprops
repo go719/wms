@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/WMS/!svn/ver/1/WEB-INF/views/product
+END
+list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/WMS/!svn/ver/1/WEB-INF/views/product/list.jsp
+END
+selectProductList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/WMS/!svn/ver/1/WEB-INF/views/product/selectProductList.jsp
+END
+input.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/WMS/!svn/ver/1/WEB-INF/views/product/input.jsp
+END

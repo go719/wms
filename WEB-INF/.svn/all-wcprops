@@ -1,0 +1,15 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 18
+/svn/WMS/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/WMS/!svn/ver/2/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/WMS/!svn/ver/1/WEB-INF/web.xml
+END

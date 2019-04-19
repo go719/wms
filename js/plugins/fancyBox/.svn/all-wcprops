@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/WMS/!svn/ver/1/js/plugins/fancyBox
+END
+jquery.fancybox.pack.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/WMS/!svn/ver/1/js/plugins/fancyBox/jquery.fancybox.pack.js
+END
+jquery.fancybox.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/WMS/!svn/ver/1/js/plugins/fancyBox/jquery.fancybox.js
+END
+.gitattributes
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/WMS/!svn/ver/1/js/plugins/fancyBox/.gitattributes
+END
+jquery.fancybox.css
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/WMS/!svn/ver/1/js/plugins/fancyBox/jquery.fancybox.css
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/WMS/!svn/ver/1/WEB-INF/views/common
+END
+common_page.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/WMS/!svn/ver/1/WEB-INF/views/common/common_page.jsp
+END
+nopermission.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/WMS/!svn/ver/1/WEB-INF/views/common/nopermission.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/WMS/!svn/ver/1/WEB-INF/views/common/error.jsp
+END
+common_msg.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/WMS/!svn/ver/1/WEB-INF/views/common/common_msg.jsp
+END
